@@ -5,7 +5,7 @@ import ItemList from './components/ItemList';
 import './App.css';
 
 function App() {
-  const categories = ['aliments', 'armor', 'charms', 'decorations', 'events', 'items', 'locations', 'monsters', 'skills', 'weapons'];
+  const categories = ['Alimentos', 'Armaduras', 'Encantamentos', 'Decorações', 'Eventos', 'Itens', 'Locais', 'Monstros', 'Habilidades', 'Armas'];
 
   return (
     <CategoryProvider>
